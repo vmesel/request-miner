@@ -1,0 +1,18 @@
+[project]
+name = "request-miner"
+version = "0.0.1"
+authors = [
+  { name="Vinnie Mesel", email="bioinfo.vinicius@gmail.com" },
+]
+description = "A simple requests wrapper with backoff."
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/vmesel/request-miner"
+"Bug Tracker" = "https://github.com/vmesel/request-miner/issues"
