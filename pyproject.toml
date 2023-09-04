@@ -16,3 +16,6 @@ classifiers = [
 [project.urls]
 "Homepage" = "https://github.com/vmesel/request-miner"
 "Bug Tracker" = "https://github.com/vmesel/request-miner/issues"
+
+[tool.setuptools]
+py-modules = ["request_miner"]
